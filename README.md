@@ -1,1 +1,2 @@
-# SQLAlchemy-ORM
+# Learning SQLAlchemy ORM.
+Repository for practice.
